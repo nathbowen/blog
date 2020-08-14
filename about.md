@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de
-permalink: /acercade/
+permalink: /Acerca/
 ---
 
 Mi nombre es Nathalie Bowen. Actualmente tengo 19 años. Resido en la ciudad de Guayaquil/Guayas en Ecuador. Provengo de una familia particularmente diversificada y amplia. Personalmente, tengo dos hermanas y un hermano mayor. Me considero una persona antisocial y reservada, casi siempre. 
