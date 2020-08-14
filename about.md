@@ -13,4 +13,4 @@ Consiguientemente, inicie mis estudios universitarios en la Universidad de Guaya
 
 ### Contactame
 
-[email@domain.com](mailto:bowennathy@gmail.com)
+[bowennathy@gmail.com](mailto:bowennathy@gmail.com)
