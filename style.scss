@@ -123,10 +123,10 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $white;
-  background: $lightGray;
+  background: $white;
 }
 ::selection {
-  color: $black;
+  color: $white;
   background: $lightGray;
 }
 
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $lightgray;
   font-size: 16px;
 
   @include mobile {
