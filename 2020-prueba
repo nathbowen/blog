@@ -1,10 +1,9 @@
 ---
-layout: Publicacion
-title: ¿Primer post?
+layout: page
+title: Bienvenida
+permalink: /Inicio/
 ---
 
-Hola xd
+Hola lector. Pues bienvenido tan dichosa travesía. A continuación, encontraras diferentes aspectos. Entre ellos mis datos, y adicionalmente temas relacionados a la Ingeniería de Software.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+### Bienvenido, y que disfrutes.
