@@ -120,7 +120,7 @@ a {
   cursor: pointer;
 }
 a:hover, a:active {
-  color: #000;
+  color: #a5a5a5;
 }
 
 ul, ol {
